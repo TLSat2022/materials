@@ -1,85 +1,99 @@
 ﻿TYPE,CONTENT,DESCRIPTION,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE
 section,PDR,,,,,,,,
-task,DEADLINE,,4,1,pawlu.szymon (29476827),,today,en,Europe/Warsaw
-,,,,,,,,,
-task,Send final report,,4,1,pawlu.szymon (29476827),Michal (34700496),yesterday,en,Europe/Warsaw
-,,,,,,,,,
-task,Communication system description,,4,1,pawlu.szymon (29476827),Michal (34700496),2 days ago,en,Europe/Warsaw
-,,,,,,,,,
-task,Create task lists,,4,1,pawlu.szymon (29476827),,today,en,Europe/Warsaw
-,,,,,,,,,
 section,Recovery system,,,,,,,,
+task,Test newly constructed vortex parachute dropping the primary CanSat from a drone,,4,1,pawlu.szymon (29476827),,,en,Europe/Warsaw
+,,,,,,,,,
+task,Get drone supply,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+,,,,,,,,,
+task,Find a sponsoring drone company,,4,3,pawlu.szymon (29476827),,,en,Europe/Warsaw
+,,,,,,,,,
+task,Enlist potential sponsors preferably nearby Silesia and make calls,,4,4,pawlu.szymon (29476827),,,en,Europe/Warsaw
+,,,,,,,,,
+task,Get potential publicity opportunities to make sponsorship worth it,,4,4,pawlu.szymon (29476827),,,en,Europe/Warsaw
+,,,,,,,,,
+task,Talk to people involved in journalism (prerequisites in the outreach section),,4,5,pawlu.szymon (29476827),,,en,Europe/Warsaw
+,,,,,,,,,
 section,Outreach,,,,,,,,
-task,Create webpage,,4,1,pawlu.szymon (29476827),,in 13 days,en,Europe/Warsaw
+task,"Talk to people involved in journalism, make it serious (following steps are in the recovery system section)",,4,1,pawlu.szymon (29476827),,,en,Europe/Warsaw
 ,,,,,,,,,
-task,Create page design,,4,2,pawlu.szymon (29476827),,today,en,Europe/Warsaw
+task,Develop website as an attractive and professional showcase,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
 ,,,,,,,,,
-task,Create laravel project,,4,2,pawlu.szymon (29476827),,in 5 days,en,Europe/Warsaw
+task,Create webpage,,4,3,pawlu.szymon (29476827),pawlu.szymon (29476827),in 12 days,en,Europe/Warsaw
 ,,,,,,,,,
-task,Use laralvel-blog package,,4,2,pawlu.szymon (29476827),,in 5 days,en,Europe/Warsaw
+task,Create page design,,4,4,pawlu.szymon (29476827),pawlu.szymon (29476827),in 5 days,en,Europe/Warsaw
 ,,,,,,,,,
-task,Customise:,,4,2,pawlu.szymon (29476827),,in 9 days,en,Europe/Warsaw
+task,Create laravel project,,4,4,pawlu.szymon (29476827),pawlu.szymon (29476827),in 4 days,en,Europe/Warsaw
 ,,,,,,,,,
-task,Admin panel,,4,3,pawlu.szymon (29476827),,in 7 days,en,Europe/Warsaw
+task,Use laralvel-blog package,,4,4,pawlu.szymon (29476827),pawlu.szymon (29476827),in 4 days,en,Europe/Warsaw
 ,,,,,,,,,
-task,Page display,,4,3,pawlu.szymon (29476827),,in 8 days,en,Europe/Warsaw
+task,Customise:,,4,4,pawlu.szymon (29476827),pawlu.szymon (29476827),in 8 days,en,Europe/Warsaw
 ,,,,,,,,,
-task,Index page,,4,3,pawlu.szymon (29476827),,in 9 days,en,Europe/Warsaw
+task,Admin panel,,4,5,pawlu.szymon (29476827),pawlu.szymon (29476827),in 6 days,en,Europe/Warsaw
 ,,,,,,,,,
-task,Upload page into hosting,,4,2,pawlu.szymon (29476827),,in 11 days,en,Europe/Warsaw
+task,Page display,,4,5,pawlu.szymon (29476827),pawlu.szymon (29476827),in 7 days,en,Europe/Warsaw
 ,,,,,,,,,
-task,Write first blog post,,4,2,pawlu.szymon (29476827),,in 12 days,en,Europe/Warsaw
+task,Index page,,4,5,pawlu.szymon (29476827),pawlu.szymon (29476827),in 8 days,en,Europe/Warsaw
+,,,,,,,,,
+task,Upload page into hosting,,4,4,pawlu.szymon (29476827),pawlu.szymon (29476827),in 10 days,en,Europe/Warsaw
+,,,,,,,,,
+task,Write first blog post,,4,4,pawlu.szymon (29476827),pawlu.szymon (29476827),in 11 days,en,Europe/Warsaw
+,,,,,,,,,
+task,Talk to journalism people preliminarily,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+,,,,,,,,,
+task,Research publicity opportunities,,4,3,pawlu.szymon (29476827),,,en,Europe/Warsaw
 ,,,,,,,,,
 section,Mechanical and structural design,,,,,,,,
+task,Recreate CAD project,,4,1,Tomasz (35839107),Tomasz (35839107),in 5 days,en,Europe/Warsaw
+,,,,,,,,,
 section,Radio communication,,,,,,,,
-task,Software:,,4,1,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Software:,,4,1,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Create simple protocol to send structs and errors,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Create simple protocol to send structs and errors,,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Build library wrapper for protocol,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Build library wrapper for protocol,,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Do simple tests,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Do simple tests,,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
 section,Ground base,,,,,,,,
-task,x86 software development,,4,1,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,x86 software development,,4,1,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,App appearance design,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,App appearance design,,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Create simple app structural design,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Create simple app structural design,,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Choose platform,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Choose platform,,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Create project,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Create project,,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Serial port,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Serial port,,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Implement writing to serial port,,4,3,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Implement writing to serial port,,4,3,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Implement reading from serial port,,4,3,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Implement reading from serial port,,4,3,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Serial port console,,4,3,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Serial port console,,4,3,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Read data within protocol into data structures,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Read data within protocol into data structures,,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Add simple charts,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Add simple charts,,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Extend charts capabilities,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Extend charts capabilities,,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Add charts customisation (with XML),,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Add charts customisation (with XML),,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Show status,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Show status,,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Get status of connection to the probe,,4,3,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Get status of connection to the probe,,4,3,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Get status of GPS connection,,4,3,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Get status of GPS connection,,4,3,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Show appropriate icons,,4,3,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Show appropriate icons,,4,3,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Add errors console,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Add errors console,,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Aerial software:,,4,1,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Aerial software:,,4,1,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Implement protocol and library,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Implement protocol and library,,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
-task,Do tests,,4,2,pawlu.szymon (29476827),,,en,Europe/Warsaw
+task,Do tests,,4,2,pawlu.szymon (29476827),pawlu.szymon (29476827),,en,Europe/Warsaw
 ,,,,,,,,,
